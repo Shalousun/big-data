@@ -1,0 +1,1 @@
+HBase的测试demo，hbase-simple是一个使用简单的hbase-client客服端api连接demo。
