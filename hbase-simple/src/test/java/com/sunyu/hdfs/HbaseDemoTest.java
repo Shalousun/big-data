@@ -1,4 +1,4 @@
-package com.iflytek.hbase;
+package com.sunyu.hdfs;
 
 import org.apache.hadoop.hbase.util.Bytes;
 import org.junit.Test;

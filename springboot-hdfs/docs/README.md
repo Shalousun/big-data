@@ -1,0 +1,6 @@
+
+在windows环境连接hadoop通常需要设置一个HADOOP_USER_NAME，设置的用户名和linux上远行hadoop的用户保持一致
+```
+HADOOP_USER_NAME=root
+```
+除此之外是设置一个HADOOP_HOME.这个需要先将hadoop的包下载到windows系统上，
